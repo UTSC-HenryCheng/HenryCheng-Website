@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on Henry&#39;s website</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on Henry&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CES2019 Phone Survey Falsely Predicts The Conservative Party Can Win the Election</title>
+      <link>/2020/09/23/ces2019-phone-survey-falsely-predicts-the-conservative-party-can-win-the-election/</link>
+      <pubDate>Wed, 23 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/23/ces2019-phone-survey-falsely-predicts-the-conservative-party-can-win-the-election/</guid>
+      <description>Authorship Henry Cheng
+ Abstract The Liberal Party won the 2019 federal election. In the study, we explore the ces2019 phone survey data set. We found out that the survey result actually favor on the Conservative Party
+ Introduction We use Wickham et al. (2019), R Core Team (2020), Allaire et al. (2020), Wickham, Hester, and Chang (2020), Hodgetts and Alexander (2020), Xie (2020)
+The Canadian Liberal Party won the 2019 Federal Election by getting 46.</description>
+    </item>
+    
+  </channel>
+</rss>
